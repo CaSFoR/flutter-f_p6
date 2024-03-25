@@ -1,7 +1,6 @@
 import 'package:f_app6/pages/third_route.dart';
 import 'package:flutter/material.dart';
 
-import '../widgets/center.dart';
 
 class SecondPage extends StatelessWidget {
   String username;
